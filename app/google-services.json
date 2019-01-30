@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "792733666849",
+    "firebase_url": "https://sarangmohaniraj-cookieclicker.firebaseio.com",
+    "project_id": "sarangmohaniraj-cookieclicker",
+    "storage_bucket": "sarangmohaniraj-cookieclicker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792733666849:android:785e2b1f0aab710c",
+        "android_client_info": {
+          "package_name": "com.example.sarang.cookieclicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792733666849-pm0dc3sb57ohve4jk3s15p7popdo4jg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzlphAR8tmkxL-xg45AEDldsxyLcXvkq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
